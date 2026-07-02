@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { Shield, Fuel, DollarSign, Users, CheckCircle, Heart, Trash2, ArrowRight, RotateCcw, Scale } from 'lucide-react';
 import type { Car, RecommendationResponse, QuestionnaireData } from './types';
 export default function App() {
